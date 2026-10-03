@@ -1,0 +1,6 @@
+{
+  "name": "Blooming Flowers",
+  "description": "Discover the beauty, cultural significance, and care of flowers with interactive galleries and botanical care guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
